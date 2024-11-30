@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhadip shee</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [Whats-next](https://github.com/subhadip2111/DreamLift.git)
+- 🔭 I’m currently working on Redrive
 
 - 🌱 I’m currently learning **Next js ,Devops**
 
